@@ -109,4 +109,5 @@ pyvenv.cfg
 
 log/
 *.onnx
+*.joblib
 /venv/
