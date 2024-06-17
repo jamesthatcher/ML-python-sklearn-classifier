@@ -1,3 +1,3 @@
 #Fill in dependencies here
-scikit-learn==0.21.3
+scikit-learn==1.5.0
 
